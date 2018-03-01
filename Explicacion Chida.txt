@@ -1,0 +1,2 @@
+El diseño que use el el de Decorator, ya que Cada banco tiene su propio monto minimo, forma de validacion y formato. Se usara un super tipo con los datos y en las implementaciones concretas se definira los especifico de cada banco. El clase wrapper es los tipos de protocolo ya que el banco puede ofrecer diferenntes formas de tranferir el dinero.
+
